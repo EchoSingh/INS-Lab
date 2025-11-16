@@ -24,3 +24,7 @@ Thumbs.db
 
 # Logs
 .log
+
+#misc
+inputf.in
+outputf.out

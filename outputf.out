@@ -1,1 +1,4 @@
-Hello World
+Enter a prime number p: Enter another prime number q: 
+===== RSA KEY PAIR GENERATED =====
+Public Key  (e, n) = (3, 55)
+Private Key (d, n) = (27, 55)
